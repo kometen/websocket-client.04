@@ -1,0 +1,2 @@
+A copy of https://github.com/zaphoyd/websocketpp/blob/master/examples/utility_client/utility_client.cpp
+and moved to own files for classes.
